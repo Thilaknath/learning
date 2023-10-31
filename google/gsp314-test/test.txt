@@ -1,0 +1,15 @@
+export VPC_NAME=vpc-network-oh0q
+
+export SUBNET_A=subnet-a-0k88
+
+export REGION_A=asia-south1
+
+export SUBNET_B=subnet-b-7r56
+
+export REGION_B=us-east1
+
+export FIREWALL_RULE_NAME_1=opgf-firewall-ssh
+
+export FIREWALL_RULE_NAME_2=hciq-firewall-rdp
+
+export FIREWALL_RULE_NAME_3=xnqg-firewall-icmp
